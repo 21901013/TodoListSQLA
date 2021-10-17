@@ -1,0 +1,50 @@
+HW##SQLProject##Personal project##2021/10/17##2021/10/17 15:09:00
+Self_study##ComputerNetwork##Listen to the lecture##2021/10/20##2021/10/17 15:09:41
+HW##SolveProblems##Discrete Mathematics##2021/10/19##2021/10/17 15:12:08
+Self_study##DiscreteMathematics##Study the concepts##2021/10/21##2021/10/17 15:12:54
+Study_group##Solve&Share##Share the problems and answers##2021/10/17##2021/10/17 15:15:36
+Self-study##LinearAlgerbra##Vocabularies & solving methods##2021/10/20##2021/10/17 15:16:40
+Lecture##R.T.Project##For thuesday class##2021/10/19##2021/10/17 15:18:04
+HW##Report##Listen to the lecture then write##2021/10/21##2021/10/17 15:19:02
+Lecture##R.T.Project(1)##For friday class##2021/10/23##2021/10/17 15:20:29
+HW##Report(1)##Listen to the lecture(1) then write##2021/10/24##2021/10/17 15:21:04
+Hobby##ReadNovels##Read light novels##none##2021/10/17 15:22:59
+Health##Run##Run 1 lap around the school##everyday##2021/10/17 15:23:32
+Quiz##Quiz##Base on the concepts that we studied##2021/10/26##2021/10/17 15:24:41
+HW##Presentation##EAP-IT presentation##2021/10/25##2021/10/17 15:25:17
+HW##Essay##Finish and hand in esssay for EAP-IT##2021/10/25##2021/10/17 15:25:45
+Etc##Home##Going home to get vaccinnation##2021/10/29##2021/10/17 15:27:53
+Etc##Hospital##Going to the hospital to get 2nd vaccinnation##2021/10/30##2021/10/17 15:28:25
+Health##DrinkMilk##Drink milk##everyday##2021/10/17 15:29:26
+Etc##Buy##Buy shoes##2021/11/05##2021/10/17 15:30:41
+Etc##ListenToNews##Listen to the news##everyday##2021/10/17 15:31:47
+Group##Attend##Attend weekly group session##2021/10/27##2021/10/17 15:33:35
+Room##LunchMeeting##Eat lunch with roomates##2021/11/04##2021/10/17 15:40:08
+Group##DinnerMeeting##Eat dinner with group members##2021/11/03##2021/10/17 15:40:42
+Self_study##StudyMeet##Meet with YoonSeo to study for Computer Networks##2021/10/18##2021/10/17 15:41:48
+Exam##E.LinearAlgebra##Exam on linear algebra##2021/10/21##2021/10/17 15:43:22
+Exam##E.DiscreteMathematics##Exam on discrete mathematics##2021/10/22##2021/10/17 15:43:55
+Exam##E.ComputerNetwork##Exam on computer network##2021/10/21##2021/10/17 15:44:23
+Hobby##Drama##Watch dramas##none##2021/10/17 15:45:49
+Health##Walk##Walk at least 3000 steps per day##everyday##2021/10/17 15:46:35
+Etc##Call##Call mom and dad once every week##2021/10/17##2021/10/17 15:47:31
+Etc##Alpha##Buy pens##2021/10/26##2021/10/17 15:48:44
+Etc##SkinCare##Buy skincare##2021/10/30##2021/10/17 15:49:17
+Health##Drink##Drink at least 1 cup of water per day##everyday##2021/10/17 15:49:52
+Group##WeeklyLunchMeeting##Lunch meeting with the saesae##every##2021/10/17 15:51:14
+Etc##NiceMeal##Reward myself with a nice meal##2021/10/23##2021/10/17 15:52:17
+Exam##E.Construct##Exam on construct##2021/11/22##2021/10/17 15:54:21
+Exam##E.LinearAlgebra(1)##Exam on linear algebra##2021/11/18##2021/10/17 15:55:11
+Etc##Daiso##Buy stationaries##2021/11/05##2021/10/17 15:55:59
+Hobby##Music##Listen to music##none##2021/10/17 15:57:43
+HW##Worksheet3##Fill the worksheet for construct##2021/10/17##2021/10/17 16:01:12
+HW##DesignSpring3.5##Finish design sprint 3.5##2021/10/18##2021/10/17 16:02:20
+Lecture##Chapel-08##Attend chapel##2021/10/20##2021/10/17 16:03:21
+TA##TASession-R.T.P##Attend ta session##2021/11/05##2021/10/17 16:06:54
+TA##TASession-LinearAlgebra##Attend ta session##2021/10/27##2021/10/17 16:07:51
+HW##Research##Research for my own proposal##2021/10/19##2021/10/17 16:10:51
+HW##Worksheet##Fill in the worksheet##2021/10/19##2021/10/17 16:11:19
+Room##Clean##Clean my room##2021/10/29##2021/10/17 16:12:21
+HW##Draft1##Write draft for own proposal##2021/10/26##2021/10/17 16:13:52
+HW##DiscussionWorksheet##Fill in the discussion worksheet##2021/10/19##2021/10/17 16:14:33
+Group##CheckMenu##Check today's menu and post it on kakaotalk group chat##everyday##2021/10/17 16:16:46
